@@ -1,0 +1,1 @@
+# Python-Script-using-ADB-Commands-to-Send-SMS-on-Android-Devices
